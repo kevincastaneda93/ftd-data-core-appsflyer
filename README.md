@@ -1,0 +1,1 @@
+# ftd-data-core-appsflyer
